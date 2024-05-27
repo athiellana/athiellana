@@ -7,4 +7,5 @@ Nice to meet you! I'm currently studying at Zone01 France, you can discover what
 - 💬 Ask me about UI/UX design and frontend development. I love that.
 - 📫 How to reach me: salome.dupre@gmail.com
 - ⚡ Fun fact: I love spiders. 🤩
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&size_weight=0.5&count_weight=0.5)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=athiellana)](https://github.com/anuraghazra/github-readme-stats)
