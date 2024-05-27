@@ -8,4 +8,4 @@ Nice to meet you! I'm currently studying at Zone01 France, you can discover what
 - 📫 How to reach me: salome.dupre@gmail.com
 - ⚡ Fun fact: I love spiders. 🤩
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=athiellana&show_icons=true&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=athiellana&layout=compact&theme=dracula)
