@@ -27,6 +27,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=athiellana&show_icons=true&locale=en" alt="athiellana" /></p>
 I'm supposed to have more commits, but sadly some of my repositories are in private due to confidentiality. Reach out to me to know more about those projects!
+<br>
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=athiellana&layout=compact&theme=dracula)
